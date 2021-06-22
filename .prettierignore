@@ -1,0 +1,15 @@
+package.json
+.runix
+.sewing-kit
+.dev
+node_modules
+tmp
+public
+*.svg
+*.graphql.d.ts
+build
+/app/graphql/schema.graphql
+/web/types/graphql/*
+/infrastructure/**/*
+/config/**/*.yml
+README.md
